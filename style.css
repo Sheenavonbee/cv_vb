@@ -39,12 +39,19 @@
                                 
                                 .header_h2 {
                                     margin: 0;
+                                    color: rgb(212, 196, 47);
                                 }
                                 
                                 .header_contact {
                                     font-weight: 600;
                                     flex-direction: column;
                                     padding-top: 3%;
+                                }
+                                
+                                .degrees_h3,
+                                .ex_pro_h3 {
+                                    color: rgb(212, 196, 47);
+                                    text-decoration: underline rgb(212, 196, 47);
                                 }
                                 
                                 .links_list,
